@@ -8,6 +8,6 @@
 		<h1>
 			OpenShift test app.
 		</h1>
-		This is OpenShift test application.
+		This is OpenShift test application. Such a nice app.
 	</body>
 </html>
